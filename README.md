@@ -1,9 +1,6 @@
 # <h1 align="center">Hi there, I am Mahmoud Magdi :wave:</h1>
 
-<h2 align="center">
-  [![Linkedin Badge](https://img.shields.io/badge/-MahmoudMagdi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-magdi-a8671a183/)](https://www.linkedin.com/in/mahmoud-magdi-a8671a183/)
-</h2>
-
+<h2 align="center">(https://img.shields.io/badge/-MahmoudMagdi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-magdi-a8671a183/)</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-MahmoudMagdi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-magdi-a8671a183/)](https://www.linkedin.com/in/mahmoud-magdi-a8671a183/) 
 [![Gmail Badge](https://img.shields.io/badge/-eng.magdi99-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eng.magdi99@gmail.com)](mailto:eng.magdi99@gmail.com)
