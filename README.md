@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Perl_Script-121011?style=for-the-badge&logo=Perl&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UVM?style=for-the-badge&logo=UVM&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UVM%20-56347C?&style=for-the-badge&logo=UVM&logoColor=white"/>
   
 
 </div>
