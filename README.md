@@ -28,3 +28,5 @@
 - 💬 Ask me about: Digital-Front-End-Design, Verilog, SystemVerilog, and ASIC Digital Implementation   
 - ⚡ Fun fact: Real Madrid is my source of happenes
 
+
+![Magdi GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmouodMagdi&show_icons=true)
