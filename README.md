@@ -1,12 +1,13 @@
 # <h1 align="center">Hi there, I am Mahmoud Magdi 👋
 
   <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
-  <p align="center">
+
+<p align="center">
   <br/>
-  <a href="www.linkedin.com/in/mahmoud-magdi-a8671a183/">
+  <a href="https://www.linkedin.com/in/mahmoud-magdi-a8671a183/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
-    
+  
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
