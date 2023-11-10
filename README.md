@@ -13,13 +13,10 @@
 
 
 
-## <h4> 💡 Area of Interests </h4>
-
-- Digital IC Front-End Design
-- Digital Verification
-- ASIC Digtial Implementation
-- Elliptic Curve Zero-Knoweldge Proofs Hardware Acceleration research areas
-
+- 🔭 I’m currently working on the Digital Design and Verification of ECSM
+- 🤔 My interests are with Digital IC Front-End Design, Verification, and ASIC Implementation
+- 💬 Ask me about anything, I am happy to help;
+- 📫 If you have a project, I'm available to help and also I'm looking for a new opportunities, you can always contact me.
 
 ## <h5> Skills </h5>
 
@@ -42,13 +39,3 @@
     - PnR "Placment, CTS, and Routing"
     - STA
     - LVS and Sign-off
-      
-▶️ If you have a project, I'm available to help and also I'm looking for a new opportunities, you can always contact me.
-
-
-- 🔭 I’m currently working on the Digital Design and Verification of ECSM
-- 💬 Ask me about: Digital-Front-End-Design, Verilog, SystemVerilog, and ASIC Digital Implementation   
-- ⚡ Fun fact: Real Madrid is my source of happenes
-
-
-![Magdi GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmouodMagdi&show_icons=true)
