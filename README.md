@@ -19,15 +19,17 @@
 - 📫 If you have a project, I'm available to help and also I'm looking for a new opportunities, you can always contact me.
 
 
-### Languages and Tools:
+### Languages, OS and Tools:
 <div display="flex">
-  <img src="https://img.shields.io/badge/verilog%20-%23E34F26.svg?&style=for-the-badge&logo=verilog&logoColor=white">
-  <img src="https://img.shields.io/badge/sv%20-%23E34F26.svg?&style=for-the-badge&logo=SV&logoColor=white">
+
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  
 </div>
 <br/>
 
