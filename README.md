@@ -23,7 +23,7 @@
 <div display="flex">
 
   <img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=Verilog&logoColor=white">
-  <img src="https://img.shields.io/badge/SystemVerilog-000000?style=for-the-badge&logo=SystemVerilog&logoColor=white">
+  <img src="https://img.shields.io/badge/System_Verilog-000000?style=for-the-badge&logo=SystemVerilog&logoColor=white">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Perl_Script-121011?style=for-the-badge&logo=Perl&logoColor=white"/>
