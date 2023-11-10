@@ -66,24 +66,3 @@
 </div>
 <br/>
 
-## <h5> Skills </h5>
-
-1. Digital IC Fornt-End Design:
-    - RTL Design, Lint, and Simulation
-    - CDC and RDC Checks
-    - Logic Synthesis and Design Constraining
-    - Static Timing Anaysis
-    - DFT and Scan Insertion
-    - Logic Equivalence
-    - Gate-Level Simulation
-      
-2. Digial Verification:
-    - SystemVerilog class-based testing
-    - Functioal Coverage and Code Coverage
-    - UVM  
-   
-5. ASIC Digital Implementation:
-    - Floor-Planning, Power-Planning, Pin Placement
-    - PnR "Placment, CTS, and Routing"
-    - STA
-    - LVS and Sign-off
