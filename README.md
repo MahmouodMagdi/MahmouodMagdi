@@ -19,7 +19,7 @@
   
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/mahmoud-magdi-a8671a183)
-  - (eng.magdi99@gmail.com)
+  - Gmail: eng.magdi99@gmail.com
      
 - ⚡ Fun fact: Real Madrid is my source of happenes
 
