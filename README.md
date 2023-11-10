@@ -32,7 +32,7 @@
 - 📫 If you have a project, I'm available to help and also I'm looking for a new opportunities, you can always contact me.
 
 
-### Languages:
+### Languages
 <div display="flex">
  
   <img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=Verilog&logoColor=white">
