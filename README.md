@@ -6,7 +6,8 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-
+- Just call me Magdi !
+  
 ## <h3> 👨🏻‍💻 About Me </h3>
 
 *I am a highly skilled and motivated Digital IC Design and Verification Engineer with 1 year of experience in the semiconductor industry. My expertise lies in designing and verifying complex digital integrated circuits, ensuring their functionality, performance, and reliability. I have a passion for staying abreast of the latest trends and advancements in the industry. Continuous learning is not just a goal; it's a mindset that I bring to every project. I am regularly trusted to deliver on the toughest designs because I enjoy finding new approaches and I do not give up!*
