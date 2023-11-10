@@ -18,7 +18,7 @@
 - 💬 Ask me about: Digital-Front-End-Design, Verilog, SystemVerilog, and ASIC Digital Implementation
   
 - 📫 How to reach me:
-  - [LinkedIn](www.linkedin.com/in/mahmoud-magdi-a8671a183)
+  - [LinkedIn](https://www.linkedin.com/in/mahmoud-magdi-a8671a183)
   - [Gmail](eng.magdi99@gmail.com)
      
 - ⚡ Fun fact: Real Madrid is my source of happenes
