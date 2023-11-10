@@ -2,12 +2,13 @@
 
 
 <a target="_blank" href="https://www.linkedin.com/in/mahmoud-magdi-a8671a183">
-  <img align="center" alt="LinkdeIN" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a target="_blank" href="mailto:eng.magdi99@gmail.com">
-  <img align="center" alt="Gmail" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<a target="blue_blank" href="mailto:eng.magdi99@gmail.com">
+  <img align="center" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+
 
 
 
@@ -24,11 +25,6 @@
 
 
 - 🔭 I’m currently working as a Digital IC Design Engineer
-- 💬 Ask me about: Digital-Front-End-Design, Verilog, SystemVerilog, and ASIC Digital Implementation
-  
-- 📫 How to reach me:
-  - [LinkedIn](https://www.linkedin.com/in/mahmoud-magdi-a8671a183)
-  - Gmail: eng.magdi99@gmail.com
-     
+- 💬 Ask me about: Digital-Front-End-Design, Verilog, SystemVerilog, and ASIC Digital Implementation   
 - ⚡ Fun fact: Real Madrid is my source of happenes
 
