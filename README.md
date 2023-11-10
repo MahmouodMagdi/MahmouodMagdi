@@ -1,4 +1,7 @@
 # <h1 align="center"><font color="purple">Hi there, I am Mahmoud Magdi 👋
+<h1 align="center">
+  <img src="https://placehold.it/300x50/purple/white?text=Your+Full+Name" alt="Mahmoud">
+</h1>
 
 
 
