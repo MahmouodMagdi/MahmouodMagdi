@@ -2,14 +2,17 @@
 
 
 
-*I am a highly skilled and motivated Digital IC Design and Verification Engineer with 1 year of experience in the semiconductor industry. My expertise lies in designing and verifying complex digital integrated circuits, ensuring their functionality, performance, and reliability. Passionate about pushing the boundaries of digital IC design, I navigate the ever-shifting currents of technology with a blend of technical prowess and artistic finesse*
+*I am a highly skilled and motivated Digital IC Design and Verification Engineer with 1 year of experience in the semiconductor industry. My expertise lies in designing and verifying complex digital integrated circuits, ensuring their functionality, performance, and reliability. I have a passion for staying abreast of the latest trends and advancements in the industry. Continuous learning is not just a goal; it's a mindset that I bring to every project. I am regularly trusted to deliver on the toughest designs because I enjoy finding new approaches and I do not give up!*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+*I am a firm believer in the power of collaboration and continuous learning. My approach to work is centered around helping my teammates, leveraging collective expertise, and fostering a collaborative environment. I find great joy in learning from the experiences of my colleagues and contributing to a positive, knowledge-sharing culture within the team.*
+
+**💡My area of interest is:** Digital IC Design, Verification, and ASIC Digtial Implementation 
+
+
+- 🔭 I’m currently working as a Digital IC Design Engineer
+- 💬 Ask me about Digital-Front-End-Design, Verilog, SystemVerilog, and ASIC Digital Implementation
+- 📫 How to reach me:
+  - [LinkedIn](www.linkedin.com/in/mahmoud-magdi-a8671a183)
+  - [Gmail](eng.magdi99@gmail.com)                    
+- ⚡ Fun fact: Real Madrid is my source of happenes
 -->
