@@ -1,4 +1,4 @@
-# <h1 align="center">Hi there, I am Mahmoud Magdi 👋
+# <h1 align="center">Hi there, I am Mahmoud Magdi</h1>
 
   <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
 
