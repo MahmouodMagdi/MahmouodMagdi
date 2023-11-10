@@ -1,15 +1,8 @@
 # <h1 align="center">Hi there, I am Mahmoud Magdi 👋
 
 
-<a target="_blank" href="https://www.linkedin.com/in/mahmoud-magdi-a8671a183">
-  <img align="center" alt="LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 
-<a target="blue_blank" href="mailto:eng.magdi99@gmail.com">
-  <img align="center" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-
+<h3> 👨🏻‍💻 About Me </h3>
 
 
 *I am a highly skilled and motivated Digital IC Design and Verification Engineer with 1 year of experience in the semiconductor industry. My expertise lies in designing and verifying complex digital integrated circuits, ensuring their functionality, performance, and reliability. I have a passion for staying abreast of the latest trends and advancements in the industry. Continuous learning is not just a goal; it's a mindset that I bring to every project. I am regularly trusted to deliver on the toughest designs because I enjoy finding new approaches and I do not give up!*
