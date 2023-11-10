@@ -6,11 +6,11 @@
 
 *I am a firm believer in the power of collaboration and continuous learning. My approach to work is centered around helping my teammates, leveraging collective expertise, and fostering a collaborative environment. I find great joy in learning from the experiences of my colleagues and contributing to a positive, knowledge-sharing culture within the team.*
 
-**💡My area of interest is:** Digital IC Design, Verification, and ASIC Digtial Implementation 
+**💡My area of interest lies in:** Digital IC Design, Efficient RTL Design, CDC and RDC Checks, Logic Synthesis optimizations "Performance, Power, and Area", Verification, and ASIC Digtial Implementation 
 
 
 - 🔭 I’m currently working as a Digital IC Design Engineer
-- 💬 Ask me about Digital-Front-End-Design, Verilog, SystemVerilog, and ASIC Digital Implementation
+- 💬 Ask me about: Digital-Front-End-Design, Verilog, SystemVerilog, and ASIC Digital Implementation
 - 📫 How to reach me:
   - [LinkedIn](www.linkedin.com/in/mahmoud-magdi-a8671a183)
   - [Gmail](eng.magdi99@gmail.com)                    
