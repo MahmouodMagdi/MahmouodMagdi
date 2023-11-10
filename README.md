@@ -34,12 +34,12 @@
 
 ### Tools
 <div display="flex">
-  <img src="https://img.shields.io/badge/Synopsys-VCS_DVE-0078D4?style=for-the-badge&logo=syopsys&logoColor=white">
-  <img src="https://img.shields.io/badge/Synopsys-Verdi-0078D4?style=for-the-badge&logo=syopsys&logoColor=white">
-  <img src="https://img.shields.io/badge/Synopsys-SpyGlass-0078D4?style=for-the-badge&logo=syopsys&logoColor=white">
-  <img src="https://img.shields.io/badge/Synopsys-Design_Compiler-0078D4?style=for-the-badge&logo=syopsys&logoColor=white">
-  <img src="https://img.shields.io/badge/Synopsys-Formality-0078D4?style=for-the-badge&logo=syopsys&logoColor=white">
-  <img src="https://img.shields.io/badge/MentorGraphics-ModelSim-0078D4?style=for-the-badge&logo=Mentor&logoColor=white">
+  <img src="https://img.shields.io/badge/Synopsys-VCS_DVE-0078D4?style=for-the-badge&logo=S&logoColor=white">
+  <img src="https://img.shields.io/badge/Synopsys-Verdi-0078D4?style=for-the-badge&logo=S&logoColor=white">
+  <img src="https://img.shields.io/badge/Synopsys-SpyGlass-0078D4?style=for-the-badge&logo=S&logoColor=white">
+  <img src="https://img.shields.io/badge/Synopsys-Design_Compiler-0078D4?style=for-the-badge&logo=S&logoColor=white">
+  <img src="https://img.shields.io/badge/Synopsys-Formality-0078D4?style=for-the-badge&logo=S&logoColor=white">
+  <img src="https://img.shields.io/badge/Mento-ModelSim-0078D4?style=for-the-badge&logo=Mentor&logoColor=white">
   <img src="https://img.shields.io/badge/Xilix-VIVADO-007D4?style=for-the-badge&logo=AMD&logoColor=white">
   <img src="https://img.shields.io/badge/Xilix-ISE-00784?style=for-the-badge&logo=AMD&logoColor=white">
   <img src="https://img.shields.io/badge/Intel-Quartus-078D4?style=for-the-badge&logo=INTEL&logoColor=white">
