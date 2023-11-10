@@ -1,11 +1,10 @@
 <h1 align="center">Hi there, I am Mahmoud Magdi :wave:</h1>
 
 <p align="center">
-
-  [![Linkedin Badge](https://img.shields.io/badge/-MahmoudMagdi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-magdi-a8671a183/)](https://www.linkedin.com/in/mahmoud-magdi-a8671a183/)
-  [![Gmail Badge](https://img.shields.io/badge/-eng.magdi99-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eng.magdi99@gmail.com)](mailto:eng.magdi99@gmail.com)
+<a href="mailto:eng.magdi99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt=Gmail"></a>
+<a href="https://www.linkedin.com/in/mahmoud-magdi-a8671a183" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/MahmouodMagdi/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 </p>
-
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 
