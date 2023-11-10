@@ -11,7 +11,11 @@
 
 *I am a passionate and extremely motivated Digital IC Design Engineer with interests in the field of Digital IC Design, Verification, ASIC Physical Implementation, and Computer Architecture.*
 
-*With about 1 year of industry experience, my expertise lies in designing and verifying complex digital integrated circuits, ensuring their functionality, performance, and reliability. I am dedicated to delivering innovative solutions and collaborating with cross-functional teams to bring ideas to life. Continuous learning is not just a goal; it's a mindset that I bring to every project. I am regularly trusted to deliver on the toughest designs because I enjoy finding new approaches and I do not give up!*
+*With about 1 year of industry experience, my expertise lies in designing and verifying complex digital integrated circuits, ensuring their functionality, performance, and reliability.* 
+
+*I am dedicated to delivering innovative solutions and collaborating with cross-functional teams to bring ideas to life.*
+
+*Continuous learning is not just a goal; it's a mindset that I bring to every project. I am regularly trusted to deliver on the toughest designs because I enjoy finding new approaches and I do not give up!*
 
 
 
