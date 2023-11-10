@@ -40,8 +40,8 @@
   <img src="https://img.shields.io/badge/Synopsys-Design_Compiler-0078D4?style=for-the-badge&logo=S&logoColor=white">
   <img src="https://img.shields.io/badge/Synopsys-Formality-0078D4?style=for-the-badge&logo=S&logoColor=white">
   <img src="https://img.shields.io/badge/Mentor_Graphics-ModelSim-0078D4?style=for-the-badge&logo=Mentor&logoColor=white">
-  <img src="https://img.shields.io/badge/Xilix-VIVADO-007D4?style=for-the-badge&logo=AMD&logoColor=white">
-  <img src="https://img.shields.io/badge/Xilix-ISE-00784?style=for-the-badge&logo=AMD&logoColor=white">
+  <img src="https://img.shields.io/badge/Xilinx-VIVADO-007D4?style=for-the-badge&logo=AMD&logoColor=white">
+  <img src="https://img.shields.io/badge/Xilinx-ISE-00784?style=for-the-badge&logo=AMD&logoColor=white">
   <img src="https://img.shields.io/badge/Intel-Quartus-078D4?style=for-the-badge&logo=INTEL&logoColor=white">
   <img src="https://img.shields.io/badge/Intel-QuetsaSim-0078D4?style=for-the-badge&logo=INTEL&logoColor=white">
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
