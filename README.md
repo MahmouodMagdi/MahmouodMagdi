@@ -2,7 +2,9 @@
 
   <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
 
-<h1 align="center"> [![Linkedin Badge](https://img.shields.io/badge/-MahmoudMagdi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-magdi-a8671a183/)](https://www.linkedin.com/in/mahmoud-magdi-a8671a183/) </h1>
+<h1 align="center">
+  [![Linkedin Badge](https://img.shields.io/badge/-MahmoudMagdi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-magdi-a8671a183/)](https://www.linkedin.com/in/mahmoud-magdi-a8671a183/) 
+</h1>
 
 [![Gmail Badge](https://img.shields.io/badge/-eng.magdi99-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eng.magdi99@gmail.com)](mailto:eng.magdi99@gmail.com)
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
