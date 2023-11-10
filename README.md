@@ -14,6 +14,11 @@
 
 
 
+
+
+
+
+
 - 🔭 I’m currently working on the Digital Design and Verification of ECSM
 - 🤔 My interests are with Digital IC Front-End Design, Verification, and ASIC Implementation
 - 💬 Ask me about anything, I am happy to help;
