@@ -13,8 +13,14 @@
 
 
 
-<h4> Area of Interests</h4>
-💡 Digital IC Design, Efficient RTL Design, CDC and RDC Checks, Logic Synthesis optimizations "Performance, Power, and Area", Verification, and ASIC Digtial Implementation 
+<h4> 💡 Area of Interests</h4>
+
+- Digital IC Front-End Design
+- Efficient RTL Design
+- CDC and RDC Checks
+- Logic Synthesis optimizations "Performance, Power, and Area"
+- Digital Verification
+- ASIC Digtial Implementation 
 
 ▶️ If you have a project, I'm available to help and also I'm looking for a new opportunities, you can always contact me.
 
