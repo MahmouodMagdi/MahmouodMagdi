@@ -1,4 +1,4 @@
-# <h1 align="center"><font color="blue">Hi there, I am Mahmoud Magdi 👋
+# <h1 align="center">Hi there, I am Mahmoud Magdi 👋
 
 
 
