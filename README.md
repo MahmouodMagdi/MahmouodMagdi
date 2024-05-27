@@ -26,8 +26,6 @@
 
 
 
-- 🔭 I’m currently working on the Digital Design and Verification of ECSM
-- 🔍 I’m currently seeking for a MSc/PhD student position in the field of the VLSI Digital IC Design, if you have a good opportunity, please do not hesitate to contact me  
 - 🤔 My interests are with Digital IC Front-End Design, Verification, and ASIC Implementation
 - 💬 Ask me about anything, I am happy to help;
 - 📫 If you have a project, I'm available to help and also I'm looking for a new opportunities, you can always contact me.
