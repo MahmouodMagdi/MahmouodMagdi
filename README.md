@@ -12,7 +12,7 @@
   
 <h3> 👨🏻‍💻 About Me </h3>
 
-*I am a passionate and extremely motivated Digital IC Design Engineer with interests in the field of Digital IC Design, Verification, ASIC Physical Implementation, and Computer Architecture.*
+*I am a passionate and extremely motivated Digital IC Design Engineer working as a contractor for **SYNOPSYS** with interests in the field of Digital IC Design, Verification, ASIC Physical Implementation, and Computer Architecture.*
 
 *With about 2 years of industry experience, my expertise lies in designing and verifying complex digital integrated circuits, ensuring their functionality, performance, and reliability.* 
 
