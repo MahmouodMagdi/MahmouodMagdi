@@ -14,7 +14,7 @@
 
 *I am a passionate and extremely motivated Digital IC Design Engineer with interests in the field of Digital IC Design, Verification, ASIC Physical Implementation, and Computer Architecture.*
 
-*With about 1 year of industry experience, my expertise lies in designing and verifying complex digital integrated circuits, ensuring their functionality, performance, and reliability.* 
+*With about 2 years of industry experience, my expertise lies in designing and verifying complex digital integrated circuits, ensuring their functionality, performance, and reliability.* 
 
 *I am dedicated to delivering innovative solutions and collaborating with cross-functional teams to bring ideas to life.*
 
@@ -27,8 +27,8 @@
 
 
 - 🤔 My interests are with Digital IC Front-End Design, Verification, and ASIC Implementation
-- 💬 Ask me about anything, I am happy to help;
-- 📫 If you have a project, I'm available to help and also I'm looking for a new opportunities, you can always contact me.
+- 💬 Ask me about anything, and I am happy to help;
+- 📫 If you have a project, I'm available to help, and I'm also looking for new opportunities. You can always contact me.
 
 
 ### Languages
